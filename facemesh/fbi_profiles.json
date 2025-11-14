@@ -1,0 +1,29 @@
+{
+  "michael": {
+    "person_id": "michael",
+    "full_name": "Michael Blenkinsop",
+    "age": 43,
+    "gender": "Male",
+    "occupation": "Rigger in Oil and Gas",
+    "criminal_record": "No Previous Convictions",
+    "status": "CLEAR",
+    "nationality": "British",
+    "height": "N/A",
+    "weight": "N/A",
+    "eye_color": "N/A",
+    "hair_color": "N/A",
+    "date_of_birth": "N/A",
+    "address": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emergency_contact": "N/A",
+    "blood_type": "N/A",
+    "known_associates": [],
+    "aliases": [],
+    "notes": "Oil and gas industry professional. Clean record.",
+    "risk_level": "LOW",
+    "clearance_level": "STANDARD",
+    "last_updated": "2025-11-14"
+  }
+}
+
