@@ -1,0 +1,118 @@
+======================================================================
+FBI-STYLE FACIAL RECOGNITION SYSTEM - REPORT
+======================================================================
+
+Generated: 2025-11-14 19:23:12
+
+STATISTICS
+----------------------------------------------------------------------
+Total Matches: 85
+Total Events: 0
+Avg Confidence: 0.9991873546356788
+Max Confidence: 1.0
+Min Confidence: 0.9933724263391727
+High Confidence Matches: 85
+
+
+RECENT MATCHES (Last 20)
+----------------------------------------------------------------------
+
+1. 2025-11-14T19:22:33.584900
+   Person ID: michael
+   Confidence: 99.66%
+   Max Similarity: 99.66%
+
+2. 2025-11-14T19:22:32.415507
+   Person ID: michael
+   Confidence: 99.83%
+   Max Similarity: 99.83%
+
+3. 2025-11-14T19:22:07.567544
+   Person ID: michael
+   Confidence: 99.79%
+   Max Similarity: 99.79%
+
+4. 2025-11-14T19:22:07.249366
+   Person ID: michael
+   Confidence: 99.89%
+   Max Similarity: 99.89%
+
+5. 2025-11-14T19:22:06.766219
+   Person ID: michael
+   Confidence: 99.77%
+   Max Similarity: 99.77%
+
+6. 2025-11-14T19:22:06.608713
+   Person ID: michael
+   Confidence: 99.84%
+   Max Similarity: 99.84%
+
+7. 2025-11-14T19:18:44.785771
+   Person ID: michael
+   Confidence: 99.77%
+   Max Similarity: 99.77%
+
+8. 2025-11-14T19:18:44.623522
+   Person ID: michael
+   Confidence: 99.84%
+   Max Similarity: 99.84%
+
+9. 2025-11-14T19:18:44.480406
+   Person ID: michael
+   Confidence: 99.82%
+   Max Similarity: 99.82%
+
+10. 2025-11-14T19:18:44.319900
+   Person ID: michael
+   Confidence: 99.84%
+   Max Similarity: 99.84%
+
+11. 2025-11-14T19:18:44.176109
+   Person ID: michael
+   Confidence: 99.85%
+   Max Similarity: 99.85%
+
+12. 2025-11-14T19:18:44.031902
+   Person ID: michael
+   Confidence: 99.34%
+   Max Similarity: 99.34%
+
+13. 2025-11-14T19:18:43.872982
+   Person ID: michael
+   Confidence: 99.91%
+   Max Similarity: 99.91%
+
+14. 2025-11-14T19:18:43.727918
+   Person ID: michael
+   Confidence: 99.77%
+   Max Similarity: 99.77%
+
+15. 2025-11-14T19:18:43.406440
+   Person ID: michael
+   Confidence: 99.83%
+   Max Similarity: 99.83%
+
+16. 2025-11-14T19:18:43.249201
+   Person ID: michael
+   Confidence: 99.92%
+   Max Similarity: 99.92%
+
+17. 2025-11-14T19:14:33.797114
+   Person ID: michael
+   Confidence: 99.92%
+   Max Similarity: 99.92%
+
+18. 2025-11-14T19:13:34.898107
+   Person ID: michael
+   Confidence: 99.86%
+   Max Similarity: 99.86%
+
+19. 2025-11-14T19:13:34.737318
+   Person ID: michael
+   Confidence: 99.92%
+   Max Similarity: 99.92%
+
+20. 2025-11-14T19:13:34.417415
+   Person ID: michael
+   Confidence: 99.96%
+   Max Similarity: 99.96%
